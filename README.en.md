@@ -17,8 +17,6 @@ Open an agent in a workspace with access to the episode files and invoke the rel
 
 Codex, Cursor, and Antigravity can load directories from `skills/` according to their current discovery rules. Claude Code can install the relevant skill directory under `.claude/skills/`. Check the current agent version and local permissions for installation details.
 
-Before adding or updating a skill, follow the [publishing and privacy checklist](PUBLISHING.md) for both current files and Git history, then update both READMEs. [AGENTS.md](AGENTS.md) and [CLAUDE.md](CLAUDE.md) provide agent entry points.
-
 Uploading an episode requires access to the local files and Xiaoyuzhou Creator Center. A newly created episode may still be transcoding or under review.
 
 ## License
