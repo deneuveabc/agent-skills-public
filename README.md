@@ -20,3 +20,7 @@ Codex、Cursor 和 Antigravity 可根据各自当前版本的发现规则加载 
 新增或更新 Skill 时，先按 [发布与脱敏检查](PUBLISHING.md) 检查当前文件和 Git 历史，再同步维护中英文 README。仓库中的 [AGENTS.md](AGENTS.md) 及 [CLAUDE.md](CLAUDE.md) 为不同 Agent 提供入口。
 
 上传小宇宙单集需要访问本地文件和创作者中心。后台创建成功后，单集仍可能处于转码或审核阶段。
+
+## 许可
+
+本仓库的说明与脚本采用 [MIT License](LICENSE)。使用、修改和再发布时请保留版权及许可声明。

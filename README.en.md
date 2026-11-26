@@ -20,3 +20,7 @@ Codex, Cursor, and Antigravity can load directories from `skills/` according to 
 Before adding or updating a skill, follow the [publishing and privacy checklist](PUBLISHING.md) for both current files and Git history, then update both READMEs. [AGENTS.md](AGENTS.md) and [CLAUDE.md](CLAUDE.md) provide agent entry points.
 
 Uploading an episode requires access to the local files and Xiaoyuzhou Creator Center. A newly created episode may still be transcoding or under review.
+
+## License
+
+The instructions and scripts in this repository are licensed under the [MIT License](LICENSE). Keep the copyright and license notices when using, modifying, or redistributing them.
